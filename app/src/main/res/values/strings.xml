@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daftar Mahasiswa</string>
+    <string-array name="nim">
+    </string-array>
+    <string-array name="nama">
+    </string-array>
+
+</resources>
